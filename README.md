@@ -1,4 +1,4 @@
-# Knightfall Chess — Corrected Pygame Edition
+# Knightfall Chess
 
 A local two-player chess game built with Python, Pygame, and `python-chess`.
 
